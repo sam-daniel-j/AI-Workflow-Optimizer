@@ -26,9 +26,9 @@ Analyze your repetitive tasks and get automation, optimization, and fun suggesti
     ```
 
 2.  **Running the Application:**
-    Save the provided Python code as a `.py` file (e.g., `workflow_optimizer.py`) and run it using Streamlit:
+    Save the provided Python code as a `.py` file (e.g., `app.py`) and run it using Streamlit:
     ```bash
-    streamlit run workflow_optimizer.py
+    streamlit run app.py
     ```
 
 3.  **Using the Optimizer:**
